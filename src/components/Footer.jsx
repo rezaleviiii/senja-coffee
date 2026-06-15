@@ -1,8 +1,8 @@
 import { Link } from 'react-router-dom'
 import { MapPin, Phone, Mail, Clock } from 'lucide-react'
-import logo from '../assets/logo.png'
-import igIcon from '../assets/ig.png'
-import fbIcon from '../assets/fb.png'
+import logo from '../assets/logo.WebP'
+import igIcon from '../assets/ig.WebP'
+import fbIcon from '../assets/fb.WebP'
 
 function Footer() {
   return (

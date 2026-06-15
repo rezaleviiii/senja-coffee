@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import { MapPin, Phone, Mail, Clock } from 'lucide-react'
-import igIcon from '../assets/ig.png'
-import fbIcon from '../assets/fb.png'
+import igIcon from '../assets/ig.WebP'
+import fbIcon from '../assets/fb.WebP'
 import { Helmet } from 'react-helmet-async'
 
 

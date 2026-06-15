@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import { Link } from 'react-router-dom'
 import { Menu, X, ShoppingCart } from 'lucide-react'
-import logo from '../assets/logo.png'
+import logo from '../assets/logo.WebP'
 import { useCart } from '../context/CartContext'
 
 function Navbar() {

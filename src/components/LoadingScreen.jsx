@@ -1,6 +1,6 @@
 import { motion, AnimatePresence } from 'framer-motion'
 import { useEffect, useState } from 'react'
-import logo from '../assets/logo.png'
+import logo from '../assets/logo.WebP'
 
 function LoadingScreen() {
   const [show, setShow] = useState(true)
